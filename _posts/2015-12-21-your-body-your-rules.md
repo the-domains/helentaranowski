@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-21T17:55:20.072Z'
-dateModified: '2015-12-21T17:54:59.686Z'
+datePublished: '2015-12-21T17:59:53.091Z'
+dateModified: '2015-12-21T17:59:45.501Z'
 title: Your body Your Rules
 author: []
 authors: []
