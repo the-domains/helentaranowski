@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[HelenTaranowski]]></title>
         <description><![CDATA[HelenTaranowski]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/helentaranowski/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Dec 2015 17:55:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 21 Dec 2015 17:59:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/helentaranowski/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Your body Your Rules]]></title>
-            <description><![CDATA[<article><h1>Your body Your Rules</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae4cb61a-e1a7-44a4-814f-a5c660b3ddf4.jpg"></article>]]></description>
-            <link>undefinedyour-body-your-rules/index.html</link>
+            <description><![CDATA[<article><h1>Your body Your Rules</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2dbc8c50001c964d86364cfcf31d393971c1748b.jpg"></article>]]></description>
+            <link>https://thegrid.ai/helentaranowski/your-body-your-rules/index.html</link>
             <guid isPermaLink="false">a58d17da-7724-4669-a0e6-cdea0de05e10</guid>
-            <pubDate>Mon, 21 Dec 2015 17:55:20 GMT</pubDate>
+            <pubDate>Mon, 21 Dec 2015 17:59:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
