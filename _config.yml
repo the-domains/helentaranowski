@@ -1,7 +1,7 @@
 name: HelenTaranowski
 favicon: null
-layout_spectrum: 0.8580198574345559
-typography_spectrum: 0.779699131147936
+layout_spectrum: 0.24764
+typography_spectrum: 0.24494
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.5804513017646968
+    - '#414143'
+    - '#fff301'
+    - '#e2e0e1'
+    - '#7d797a'
+    - '#aeacad'
+  brandStrength: 0.625
   lightness: 0.6767427544109523
-  saturation: 0.27852651360444725
-  rhythmicContrast: 0.5604724495206028
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
